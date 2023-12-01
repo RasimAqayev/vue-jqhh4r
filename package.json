@@ -41,7 +41,7 @@
     "eslint-plugin-vue": "^9.17.0",
     "lint-staged": "^15.0.1",
     "prettier": "^2.2.1",
-    "stylus": "^0.60.0",
+    "stylus": "^0.62.0",
     "stylus-loader": "^7.0.0",
     "typescript": "~5.2.0"
   },
